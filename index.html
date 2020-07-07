@@ -4,24 +4,65 @@
     <head>
         <title>Desafio: portfolio</title>
         <meta charset="utf-8">
+        <style>
+            body { background-color: #E0F5E3; }
+
+            .introducao { font-family: Noto Sans, sans-serif;}
+
+            h1 {color: #2d6a4f;
+                font-size: 50px;
+                font-weight: 600;
+                line-height: 50px;}
+
+            h2 {color: #40916c;
+                font-size: 30px;
+                font-weight: 300;
+                line-height: 30px;
+                font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;}
+
+            p1 {font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+                color: #081c15;
+                font-size: 17px;}
+
+            .habilidade1 {font-size: 20px;}
+
+            .habilidade2 {font-size: 19px;}  
+
+            .habilidade3 {font-size: 18px;} 
+
+            .negrito {font-weight: bold;}
+
+            .italico {font-style: italic;}
+
+        </style>
     </head>
 
     <body>
 
-        <h1>Daniele Perse S. Mendes</h1>
+        <h1 class="introducao">Daniele Perse</h1>
 
-        <a id="fotodaniele"><img src="foto-profissional1.jpeg"
+        <a id="fotodaniele"></a><img src="foto-profissional1.jpeg"
         alt="Foto profissional de Daniele Perse" width="200"/></a><br><br>
 
-        <hr>
+        <h2 class="introducao"><a id="sobremim">Um pouco sobre mim</a></h2>
 
-        <h2><a id="sobremim">Um pouco sobre mim</a></h2>
+        <p1 class="introducao">Meu nome é Daniele, sou brasileira, carioca morada de <span class="italico">São Paulo/SP</span>, estudante de <span class="negrito">Desenvolvimento de Software</span>, apaixonada por <span class="italico">tecnologia</span>, <span class="italico">viagens</span> e <span class="italico">finanças</span>.<br>Tenho experiência de 11 anos como analista na área financeira e orçamentária. Graduada em Administração de Empresas pela UFRRJ com pós graduação<br>em Finanças e Gestão corporativa.<br>Acredito que a tecnologia está presente em todas as áreas de formação e com ela temos a possibilidade de causar impactos positivos no mundo. De certa maneira,<br>todos estamos envolvidos nessa transformação e quero fazer parte desse movimento de forma ativa.<br></p1><br><br>
 
-        <p1>Meu nome é Daniele, sou brasileira, carioca morada de <em>São Paulo/SP</em>, estudante de <strong>Desenvolvimento de Software</strong>, apaixonada por <em>tecnologia</em>, <em>viagens</em> e <em>finanças</em>.<br>Tenho experiência de 11 anos como analista na área financeira e orçamentária. Graduada em Administração de Empresas pela UFRRJ com pós graduação<br>em Finanças e Gestão corporativa.<br>Acredito que a tecnologia está presente em todas as áreas de formação e com ela temos a possibilidade de causar impactos positivos no mundo. De certa maneira,<br>todos estamos envolvidos nessa transformação e quero fazer parte desse movimento de forma ativa.<br></p1><br><br>
+        <hr/>
 
         <h2><a id="habilidade">Habilidades</a></h2>
 
-        <p1>Tenho uma ótima <strong><em>capacidade analítica</em></strong> e isso me ajuda bastante no processo de tomada de decisão, ecolhendo as melhores opções. Relacionamento interpessoal,<br> trabalho em equipe, empatia, resolução de problemas, iniciativa, negociação, gestão de conflitos fazem parte do meu perfil profissional.</p1><br><br>
+        <p1>Tenho uma ótima <strong><em>capacidade analítica</em></strong> e isso me ajuda bastante no processo de tomada de decisão, escolhendo as melhores opções.<br> Também fazem parte do meu perfil profissional:<br> 
+        <ul>
+        <li class="habilidade1">Relacionamento interpessoal</li>
+        <li class="habilidade2">Trabalho em equipe</li>
+        <li class="habilidade3">Empatia</li>
+        <li>Resolução de problemas</li> 
+        <li>Iniciativa</li>
+        <li>Negociação</li>
+        <li>Gestão de conflitos</li>
+        </ul></p1><br/>
+        
 
         <h2><a id="site">Indicações de sites/blogs</a></h2>
         
@@ -38,13 +79,13 @@
 
         <h2>Índice</h2>
 
-        <ul>
+        <p1><ul>
             <li><a href="#fotodaniele">Foto</a></li>
             <li><a href="#sobremim">Um pouco sobre mim</a></li>
             <li><a href="#habilidade">Habilidades</a></li>
             <li><a href="#site">Indicações de sites/blogs</a></li>
             <li><a href="#contatos">Contatos</a></li>
-        </ul><br><br>
+        </ul></p1><br><br>
         
 
     </body>
