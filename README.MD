@@ -4,13 +4,12 @@
 
 Este repositório possui os projetos desenvolvidos durante meu processo de aprendizagem para me tornar uma pessoa desenvolvedora web full-stack.
 
-<hr />
-
 ### Portfólio
 <p><em>Desenvolvimento: desenvolver meu primeiro portfólio, utilizando conhecimentos básicos de HTML e CSS.</em></p>
 <p>Utilizando: HTML e CSS.</p>
 <p><a href="https://danieleperse.github.io/portfolio-pessoal/"><strong>Link - Portfólio pessoal</strong></a></p>
 
+<hr />
 
 ### Projeto 1
 
@@ -18,6 +17,7 @@ Este repositório possui os projetos desenvolvidos durante meu processo de apren
 <p>Utilizando: HTML e CSS.</p>
 <p><a href="https://danieleperse.github.io/projetos/lessons-learned/"><strong>Link - Projeto Lessons learned</strong></a></p>
 
+<hr />
 
 ### Projeto 2
 
@@ -25,6 +25,7 @@ Este repositório possui os projetos desenvolvidos durante meu processo de apren
 <p>Utilizando: HTML, CSS, Javascript e manipulação do DOM.</p>
 <p><a href="https://danieleperse.github.io/projetos/meme-generator/"><strong>Link - Projeto Meme Generator</strong></a></p>
 
+<hr />
 
 ### Projeto 3
 
@@ -32,6 +33,7 @@ Este repositório possui os projetos desenvolvidos durante meu processo de apren
 <p>Utilizando: HTML, CSS, Javascript e manipulação do DOM.</p>
 <p><a href="https://danieleperse.github.io/projetos/pixels-art"><strong>Link - Projeto Pixels Art</strong></a></p>
 
+<hr />
 
 ### Projeto 4
 
