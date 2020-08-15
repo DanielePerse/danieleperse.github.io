@@ -40,3 +40,11 @@ Este repositório possui os projetos desenvolvidos durante meu processo de apren
 <p><em>Desenvolvimento: desenvolver um site onde podemos escrever um lista de tarrefas. Onde é possível riscar o que já cumpriu, pintar o que é importante e limpar a lista quando terminar os afazeres.</em></p>
 <p>Utilizando: HTML, CSS, Javascript e manipulação do DOM.</p>
 <p><a href="https://danieleperse.github.io/projetos/to-do-list"><strong>Link - Projeto To Do List</strong></a></p>
+
+<hr />
+
+### Projeto 5
+
+<p><em>Desenvolvimento: recriar a página inicial do facebook. Bônus: tornar a página responsiva.</em></p>
+<p>Utilizando: HTML, CSS, Javascript, manipulação do DOM e responsividade.</p>
+<p><a href="https://danieleperse.github.io/projetos/facebook"><strong>Link - Projeto Facebook</strong></a></p>
