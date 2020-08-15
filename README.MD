@@ -7,7 +7,7 @@ Este repositório possui os projetos desenvolvidos durante meu processo de apren
 ### Portfólio
 <p><em>Desenvolvimento: desenvolver meu primeiro portfólio, utilizando conhecimentos básicos de HTML e CSS.</em></p>
 <p>Utilizando: HTML e CSS.</p>
-<p><a href="https://danieleperse.github.io/portfolio-pessoal/"><strong>Link - Portfólio pessoal</strong></a></p>
+<p><a href="https://danieleperse.github.io/portfolio-pessoal/" target="_blank"><strong>Link - Portfólio pessoal</strong></a></p>
 
 <hr />
 
