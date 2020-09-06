@@ -93,9 +93,10 @@ header {
 }
 
 .check-button {
-  left: 92%;
+  left: 93%;
   position: absolute;
   top: 94%;
+  display: inline-block;
 }
 
 .main-div {
